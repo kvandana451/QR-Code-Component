@@ -1,0 +1,25 @@
+body {
+  background-color: hsl(220, 15%, 55%) !important;
+}
+.card {
+  width: 20rem;
+  height: 26rem;
+  background-color: #fff;
+  border-radius: 1.3rem !important;
+  margin-top: 2rem;
+}
+.card .card-img-top {
+  width: 18rem;
+  height: 16rem;
+  border-radius: 1rem;
+  margin-top: 1rem;
+}
+.card-body h6 {
+  font-weight: 700;
+  font-family: "Outfit", sans-serif;
+}
+
+.card-body .card-text {
+  font-size: 15px;
+  font-family: "Outfit", sans-serif;
+}
