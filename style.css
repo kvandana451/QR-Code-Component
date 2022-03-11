@@ -1,12 +1,14 @@
 body {
   background-color: hsl(220, 15%, 55%) !important;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
 }
 .card {
   width: 20rem;
-  height: 26rem;
   background-color: #fff;
   border-radius: 1.3rem !important;
-  margin-top: 2rem;
 }
 .card .card-img-top {
   width: 18rem;
