@@ -17,9 +17,14 @@ body {
 .card-body h6 {
   font-weight: 700;
   font-family: "Outfit", sans-serif;
+  margin: auto;
+  width: 80%;
 }
 
 .card-body .card-text {
+  text-align: center;
   font-size: 15px;
   font-family: "Outfit", sans-serif;
+  margin: auto;
+  width: 80%;
 }
